@@ -43,7 +43,7 @@ Estos proyectos muestran **automatización, web scraping y lógica de programaci
 ---
 
 ## 🛠 Tecnologías usadas
-- Python 3.x  
+- Python   
 - Librerías estándar: `os`, `shutil`, `random`, `requests`, `BeautifulSoup`
 
 ---
