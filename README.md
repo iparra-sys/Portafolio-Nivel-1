@@ -5,6 +5,16 @@ En este nivel incluyo proyectos sencillos pero prácticos, diseñados para demos
 
 ---
 
+## 📊 Resumen de proyectos
+
+| Proyecto | Descripción | Código |
+|----------|-------------|--------|
+| 🎲 **Adivina el número** | Juego interactivo donde el usuario intenta adivinar un número aleatorio generado por la computadora. | [Ver código](./adivina_numero.py) |
+| 🗂️ **Organizador de archivos** | Script que organiza archivos en carpetas según su extensión (imágenes, documentos, audios, etc.). | [Ver código](./organizador_archivos.py) |
+| 💰 **Rastreador de precios** | Programa que simula la consulta y seguimiento de precios de productos. | [Ver código](./rastreador_precios.py) |
+
+---
+
 ## 📂 Proyectos incluidos
 
 ### 🎲 1. Adivina el número (`adivina_numero.py`)
