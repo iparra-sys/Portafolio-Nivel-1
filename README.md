@@ -48,26 +48,27 @@ Un programa básico que simula la consulta de precios de productos y permite ras
 
 ---
 
-##🎯 Habilidades desarrolladas
+## 🎯 Habilidades desarrolladas
 
--Uso de tipos de datos y estructuras básicas.
--Bucles y condicionales para control de flujo.
--Manejo de archivos y directorios en el sistema.
--Creación de programas ejecutables desde la terminal.
+- Uso de **tipos de datos** y estructuras básicas.  
+- **Bucles y condicionales** para control de flujo.  
+- **Manejo de archivos y directorios** en el sistema.  
+- Creación de programas ejecutables desde la terminal.  
+
 ---
 
 ## 🚀 Notas
 Estos proyectos son parte de mi aprendizaje inicial en Python.  
-Demuestran capacidad de **automatización, análisis de datos y lógica de programación**, y sirven como base para proyectos más complejos en niveles posteriores.
+Demuestran capacidad de **automatización**, **análisis de datos** y **lógica de programación**, y sirven como base para proyectos más complejos en niveles posteriores.  
 
 ---
 
-📌 Próximos pasos
+## 📌 Próximos pasos
+El siguiente nivel de mi portafolio incluirá:  
+✅ Proyectos con **APIs y Web Scraping**.  
+✅ Scripts con **interfaces gráficas (GUI)**.  
+✅ Pequeñas aplicaciones que muestren más versatilidad en Python.  
 
-El siguiente nivel de mi portafolio incluirá:
-✅ Proyectos con APIs y Web Scraping.
-✅ Scripts con interfaces gráficas (GUI).
-✅ Pequeñas aplicaciones que muestren más versatilidad en Python.
+---
 
-
-👩‍💻 Repositorio creado por Iveth Parra.
+👩‍💻 *Repositorio creado por [Iveth Parra](https://www.linkedin.com/in/iveth-parra-herrera-351a6a235).*  
